@@ -1,1 +1,1 @@
-# simple-one-page-redesign
+# simple one page redesign
