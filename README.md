@@ -2,6 +2,14 @@
 
 A modern, responsive web application for skip hire services. Built with React, TypeScript, and Tailwind CSS.
 
+[Demo](https://simple-one-page-redesign.vercel.app)
+
+## Desktop View
+![Desktop View](desktop.png)
+
+## Mobile View
+![Mobile View](mobile.png)
+
 ## Features
 
 - 🎯 Clean, modern UI with responsive design
